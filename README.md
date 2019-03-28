@@ -21,3 +21,6 @@ Example :
   
   
 The Generated Image (generated_image.jpg) will be Saved under ./output.  
+
+Note :  
+To be able to run the tool you have first to download the pretrained model (imagenet-vgg-verydeep-19.mat) from https://www.kaggle.com/teksab/imagenetvggverydeep19mat/version/1 and copy it to the forlder ./pretrained_model .
