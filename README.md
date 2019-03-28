@@ -2,7 +2,7 @@
 A python script and a simple API used to apply Neural Style Transfer on input images  
 
 
-usage: image_stylor.py [-h] -c CONTENT_IMAGE_PATH -s STYLE_IMAGE_PATH  
+usage: image_styler.py [-h] -c CONTENT_IMAGE_PATH -s STYLE_IMAGE_PATH  
                        [-n NUM_ITERATIONS]  
 
 Generate Styled image  
