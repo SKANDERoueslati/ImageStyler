@@ -15,4 +15,9 @@ optional arguments:
                         The path of the style image  
   -n NUM_ITERATIONS, --nbrIter NUM_ITERATIONS  
                         The number of iteration to be used for the generation  
-
+  
+Example :  
+./image_styler.py -c 'content_image.jpg' -s 'style_image.jpg' -n 5  
+  
+  
+The Generated Image (generated_image.jpg) will be Saved under ./output.  
